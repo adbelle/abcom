@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'zeonfederated.com';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'olioliolio';
 $db['default']['database'] = 'anthonybellew';
