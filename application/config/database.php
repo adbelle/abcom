@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'zeonfederated.com';
+$db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'olioliolio';
+$db['default']['password'] = 'wXcyNZctmcWtx5EP';
 $db['default']['database'] = 'anthonybellew';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
