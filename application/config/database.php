@@ -48,8 +48,8 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'anthonyreflected.globatmysql.com';
-$db['default']['username'] = 'adbelle';
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'root';
 $db['default']['password'] = 'olioliolio';
 $db['default']['database'] = 'anthonybellew';
 $db['default']['dbdriver'] = 'mysql';
