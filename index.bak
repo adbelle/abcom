@@ -1,0 +1,47 @@
+<html>
+<!--If You Are Reading This, Get A Life-->
+<head>
+  <title>AnthonyBellew.com</title>
+   <link rel="stylesheet" href="index.css">
+</head>
+
+
+<body>
+
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="album/crankshaft.mp3">Crankshaft</a>
+
+  <li><a href="album/getting_warmer.mp3">Getting Warmer</a>
+  <li><a href="album/dreamsmall.mp3">Dreaming Small</a>
+  <li><a href="album/triskaideka_original_mix.mp3">Triskaideka</a>
+  <li><a href="album/ascension.mp3">Ascension</a>
+  <li><a href="album/ice_palace.mp3">Ice Palace</a>
+  <li><a href="album/devolving.mp3">Devolving</a>
+  <li><a href="album/forte_e_piano.mp3">Forte e Piano</a>
+  <li><a href="album/stasis.mp3">Stasis</a>
+  <li><a href="album/experiment31.mp3">Experiment 31</a>
+
+
+</ul>
+
+<!-- Main content -->
+<h1><img src="mainimg.jpg"></img></h1>
+
+<p>For now, this is just a menu for music files that I am working on or have completed.</p>
+
+<p>If you are not familiar with my work, start with Getting Warmer.<br> Headphones recommended for bass.</p>
+
+<p>The full playlist is available <a href="whole.m3u"><font color="darkslategray">[here]</font></a></p>
+
+<p>For updates on my music and album information, my email address is below.</p>
+
+<!-- Sign and date-->
+<address>Last updated 7 May 2011<br>
+by Anthony Bellew.<br>
+<img src="contact.png"></img></address>
+
+</body>
+</html>
+
+

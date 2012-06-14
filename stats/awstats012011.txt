@@ -1,0 +1,427 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201101 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2546                
+POS_VISITOR 8120                
+POS_DAY 11229               
+POS_DOMAIN 3326                
+POS_LOGIN 3558                
+POS_ROBOT 3754                
+POS_WORMS 4265                
+POS_EMAILSENDER 4396                
+POS_EMAILRECEIVER 4539                
+POS_SESSION 11886               
+POS_SIDER 12092               
+POS_FILETYPES 4674                
+POS_OS 4829                
+POS_BROWSER 5004                
+POS_SCREENSIZE 5325                
+POS_UNKNOWNREFERER 5399                
+POS_UNKNOWNREFERERBROWSER 6029                
+POS_ORIGIN 6303                
+POS_SEREFERRALS 6441                
+POS_PAGEREFS 6596                
+POS_SEARCHWORDS 7209                
+POS_KEYWORDS 7378                
+POS_MISC 2210                
+POS_ERRORS 7456                
+POS_CLUSTER 3414                
+POS_SIDER_404 7582                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110201103346 535 104431 75586811959
+FirstTime 20110101153157
+LastTime 20110131222025
+LastUpdate 20110203122644 535 344 190 0 0
+TotalVisits 96                  
+TotalUnique 73                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 79                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 8 14763937 8 8 14388704
+1 13 17 22325919 9 9 4262956
+2 14 16 15949311 15 16 4193372
+3 6 8 12919160 4 4 4934
+4 5 5 21012705 1 2 2010
+5 3 3 4996250 2 2 2440
+6 4 4 9884103 4 4 3882
+7 8 10 9995782 9 9 8188
+8 4 5 10117715 1 1 1779315
+9 2 2 3294784 0 0 0
+10 5 5 6594616 6 6 4279
+11 3 3 3295726 11 11 5734944
+12 4 5 6652290 18 18 2040480
+13 4 4 15137641 2 2 889
+14 5 10 10742234 5 5 4279
+15 16 19 10355619 9 11 6110396
+16 26 28 39182428 16 17 41925189
+17 23 28 58519951 18 18 41952626
+18 12 15 10748039 2 2 1066
+19 7 8 16460769 12 12 33440546
+20 3 4 4936699 17 18 58610794
+21 0 0 0 5 5 10765680
+22 6 7 9872569 11 11 30005710
+23 7 7 15299412 16 16 24854366
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 187 221 333057659
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+anthonyreflected 0 1 2974 20110131145856
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+no_user_agent 18 66447 20110125201203 0
+motor 14 46490883 20110129153756 0
+core 9 4305505 20110131192516 0
+googlebot 9 235045 20110126213001 0
+slurp 6 7461 20110126144834 0
+surveybot 5 6908 20110124032058 0
+bot[+:,\.\;\/\\-] 5 4421 20110126072619 0
+java 2 5396 20110119163130 0
+msnbot 1 553 20110118073958 0
+netcraft 1 4781 20110125174042 0
+w3c_validator 1 792 20110131162341 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 11 7456 0 0
+mp3 95 331167186 0 0
+png 5 449714 0 0
+html 91 76659 0 0
+jpg 18 1343881 0 0
+txt 1 12763 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 19
+winxp 25
+unix 3
+win2000 2
+winnt 1
+linuxubuntu 2
+winvista 1
+linuxfedora 2
+linux 11
+macosx 12
+win2003 2
+Unknown 45
+win2008 96
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 23
+msie6.0 4
+winamp 36
+firefox3.6 1
+chrome 27
+opera 8
+w3m 1
+lg\- 2
+firefox4.0 4
+nsplayer 2
+msie5.5 1
+firefox3.5.3 2
+msie8.0 14
+mozilla 6
+msie7.0 8
+firefox2.0.0.17 1
+firefox2.0.0.4 1
+firefox3.6.12 1
+firefox3.6.3 7
+firefox4.7 2
+Unknown 3
+safari 8
+netscape 1
+firefox3.6.13 81
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WinampMPEG/5.57,_Ultravox/2.1 20110105040825
+Mozilla/5.0_(compatible;_AboutUsBot_Johnny5/2.0;__http://www.AboutUs.org/) 20110114071852
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110103085635
+WinampMPEG/5.60,_Ultravox/2.1 20110129170659
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20110119185707
+NSPlayer/12.00.7600.16597_WMFSDK/12.00.7600.16597 20110131173920
+LG-CU920/V1.0s_Obigo/Q05A_Profile/MIDP-2.0_Configuration/CLDC-1.1 20110131172708
+w3m/0.5.2 20110103152337
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110103085635
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20110119185707
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 140 147
+From1 1 1
+From2 2 2
+From3 24 31
+From4 20 40
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://www.facebook.com/l.php 8 8
+http://www.hk-marketing.eu 4 4
+http://www.globat.com/controlpanel/FileManager/ 4 9
+http://www.youtube.com/watch 2 2
+http://static.ak.fbcdn.net/rsrc.php/v1/y0/r/KM_5SPDBBP8.swf 2 2
+http://www.friendrocket.com/cgi-bin/topsecret.cgi 1 1
+http://www.empflix.com/view.php 1 1
+http://www.paybox.me/r/web2design 1 1
+http://touch.facebook.com/l.php 1 1
+http://www.alcowebizer.com/engine.php 0 1
+http://hades.9ch.in/realm/viewtopic.php 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+anthony+bellew 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+bellew 2
+anthony 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 3 2529
+206 92 228930039
+301 1 465
+404 40 35820
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 6
+/montyhdr.jpg 1 http://anthonybellew.com/index2.html
+/face2.jpg 1 http://anthonybellew.com/index.html
+/songs/icepalacever2.mp3 1 -
+/robots.txt 31 -
+/FCKeditor/editor/images/anchor.gif 2 
+/yourfile.mid 4 http://anthonybellew.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 79
+98.71.188.95 22 28 20960196 20110131182956
+98.71.140.162 19 20 74121044 20110106074541
+69.169.144.5 15 16 27324321 20110131171519
+77.127.0.132 7 7 23427772 20110106051321
+74.177.126.192 6 6 17323357 20110107192001
+174.129.117.237 6 6 1734 20110126144025
+24.159.37.157 5 6 18481380 20110131173920
+173.57.156.135 5 5 7862723 20110106013037
+12.234.211.100 5 5 16472480 20110115174449
+98.71.139.171 4 6 12887755 20110102030724
+204.236.250.69 1 1 264 20110124230453
+50.16.115.126 1 1 4781 20110110074658
+82.132.242.12 1 2 54289 20110115073636
+174.68.102.106 1 2 54289 20110121030003
+76.21.160.106 1 1 12763 20110103152337
+174.95.91.172 2 3 2208070 20110106010832
+96.247.198.205 1 1 553 20110106025328
+99.244.1.62 2 2 1701754 20110106024658
+72.67.18.248 1 1 792 20110131190743
+166.216.226.50 1 2 2094 20110131172707
+24.192.70.167 0 1 50122 
+166.137.15.82 1 1 4934463 20110131192410
+60.242.186.80 1 1 850877 20110106023401
+178.77.77.40 2 2 1230 20110129194046
+204.236.159.198 1 1 4781 20110106004634
+222.127.35.80 1 1 4934463 20110131194144
+67.55.106.140 2 2 9562 20110113122530
+174.252.190.62 2 3 4935907 20110131185344
+178.77.77.126 1 1 615 20110102034719
+67.169.214.36 3 3 6952320 20110128000848
+207.244.147.3 1 1 792 20110131162152
+75.216.181.167 2 2 6588992 20110129170659
+69.137.205.15 1 1 2153781 20110106013010
+38.127.197.110 1 1 4781 20110109102003
+84.229.82.124 0 2 70105 
+68.168.105.58 2 2 2487 20110131074521
+74.177.125.59 1 1 3294496 20110112083535
+76.109.2.94 0 1 14113 
+68.50.12.75 1 1 792 20110131222025
+94.168.57.176 1 2 54289 20110101153157
+98.84.72.68 2 2 6588992 20110118130208
+38.127.197.107 1 1 615 20110106170202
+70.138.51.24 2 3 905166 20110106024459
+115.189.253.31 0 1 3277 
+50.16.114.130 1 1 615 20110111040752
+66.220.149.246 0 1 233939 
+178.77.77.146 1 1 615 20110105134507
+24.155.139.135 2 3 4935907 20110131171534
+70.150.177.5 1 1 3294496 20110127091051
+24.237.38.240 3 4 4936699 20110131200256
+178.77.75.162 1 1 615 20110119074914
+65.60.209.53 3 4 4936699 20110131161859
+67.90.21.98 1 1 792 20110131162016
+184.236.129.139 2 2 851430 20110106024603
+184.73.30.110 1 1 553 20110114071852
+97.89.118.45 1 2 1444 20110131180108
+24.61.108.27 1 1 792 20110131162152
+76.73.20.202 1 1 615 20110105174801
+173.51.255.169 1 1 553 20110111140018
+184.100.36.88 1 2 54289 20110106022022
+83.254.124.110 0 1 3277 
+75.126.248.187 1 1 5921265 20110106014012
+209.51.153.38 1 1 615 20110125061636
+98.71.140.87 1 1 850877 20110125173833
+184.100.219.78 1 1 4934463 20110131222011
+69.124.143.136 2 3 2208070 20110106011607
+184.73.100.156 1 1 266 20110125185958
+184.72.19.223 1 1 615 20110106005509
+12.202.74.88 4 4 4936047 20110131183057
+87.106.135.77 1 1 615 20110115184517
+74.177.99.241 3 3 10536654 20110128173542
+69.58.178.57 4 4 10792 20110119185707
+69.251.190.133 1 1 850877 20110106024522
+156.143.85.148 1 2 1444 20110131192220
+198.92.97.106 3 4 4936699 20110131221149
+75.216.153.173 2 2 6588992 20110118082454
+74.86.226.30 1 1 1777304 20110104233243
+68.47.104.113 1 1 4934463 20110131173445
+64.252.17.104 2 3 54842 20110106013024
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20110101 1 2 54289 1
+20110102 7 11 24834758 3
+20110103 1 2 246702 1
+20110104 5 5 26427172 3
+20110105 10 10 25216483 6
+20110106 44 49 75156160 23
+20110107 2 2 6588992 1
+20110108 1 1 288 1
+20110109 2 2 5071 2
+20110110 1 1 4781 1
+20110111 2 2 1168 2
+20110112 2 2 3294784 2
+20110113 3 3 10115 2
+20110114 4 4 2073 3
+20110115 7 8 16527384 4
+20110118 4 4 13177984 2
+20110119 3 3 10177 2
+20110120 1 3 6842 1
+20110121 1 2 54289 1
+20110123 0 1 55992 0
+20110124 1 1 264 1
+20110125 4 4 852373 4
+20110126 1 1 290 1
+20110127 1 1 3294496 1
+20110128 4 6 14512542 3
+20110129 3 3 6589607 2
+20110131 72 88 116132583 23
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 3
+0s-30s 73
+2mn-5mn 1
+30s-2mn 6
+15mn-30mn 3
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 89 74329 54 51
+/songs/triskaidekaspeedmix.mp3 39 128485344 16 17
+/songs/Trev%20-%20Ice%20Palace.mp3 21 109544535 7 12
+/ringtone.mp3 11 9359647 9 7
+/songs/Trev%20-%20Triskaideka.mp3 9 38749545 0 1
+/songs/dreamingsmall.mp3 6 12922686 4 2
+/songs/Trev%20-%20The%20Lightning%20Illusion.mp3 3 7749591 0 1
+/songs/fragment.mp3 3 5331912 2 1
+/songs/icepalacevar2.mp3 2 7895324 2 2
+/songs/glitter.mp3 1 11128602 1 1
+/Home.html 1 594 0 0
+/hw/ko.txt 1 12763 1 1
+/index2.html 1 1736 0 0
+END_SIDER
