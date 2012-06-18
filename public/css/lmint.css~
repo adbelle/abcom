@@ -36,8 +36,6 @@ h6 a:hover {
 .redditname a {
     background: url("http://linuxmint-art.org/img/headers/header1_52_1.jpg") no-repeat scroll 0 0 transparent;
     height: 91px;
-    margin-left: 21px !important;
-    margin-top: 18px !important;
     width: 285px;
 }
 #header-bottom-left {
@@ -432,12 +430,14 @@ ul.tabmenu.formtab li.selected a {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -280px;
     height: 16px;
+    margin-bottom: 8px;
     width: 16px;
 }
 .arrow.upmod {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -306px;
     height: 16px;
+    margin-bottom: 8px;
     width: 16px;
 }
 .arrow.down {
