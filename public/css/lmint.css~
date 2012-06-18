@@ -34,7 +34,7 @@ h6 a:hover {
     margin-bottom: 13px;
 }
 .redditname a {
-    background: url("http://linuxmint-art.org/img/headers/header1_52_1.jpg") no-repeat scroll 0 0 transparent;
+    background: url("http://anthonybellew.com/public/images/header.jpg") no-repeat scroll 0 0 transparent;
     height: 91px;
     width: 285px;
 }
@@ -430,26 +430,28 @@ ul.tabmenu.formtab li.selected a {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -280px;
     height: 16px;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     width: 16px;
 }
 .arrow.upmod {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -306px;
     height: 16px;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     width: 16px;
 }
 .arrow.down {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -202px;
     height: 16px;
+    margin-top: 4px;
     width: 16px;
 }
 .arrow.downmod {
     background-image: url("http://anthonybellew.com/public/images/stylebits.png");
     background-position: 0 -254px;
     height: 16px;
+    margin-top: 4px;
     width: 16px;
 }
 .link .score.likes {
@@ -529,3 +531,11 @@ a.subbarlink.RESShortcutsCurrentSub {
     background: none repeat scroll 0 0 transparent;
 }
 
+.user {
+	color: white !important;
+}
+
+a {
+    color: #339966 !important;
+    text-decoration: none;
+}
