@@ -375,7 +375,7 @@ input {
 }
 ul.tabmenu.formtab {
     position: relative;
-    right: 550px;
+    right: 250px;
     top: 1px;
 }
 ul.tabmenu.formtab li a {
@@ -546,4 +546,10 @@ a.subbarlink.RESShortcutsCurrentSub {
     margin-right: 1ex;
     margin-top: 20px;
     vertical-align: bottom;
+}
+
+.formtabs-content {
+    border-top: 4px solid #5FCF99;
+    padding-top: 10px;
+    width: 520px;
 }
