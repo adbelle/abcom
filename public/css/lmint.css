@@ -539,3 +539,6 @@ a.subbarlink.RESShortcutsCurrentSub {
 	color: white !important;
 }
 
+.midcol {
+	margin-top: -4px;
+}
