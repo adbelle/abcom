@@ -3,7 +3,7 @@ body {
     font-family: sans-serif !important
     }
 h2 {
-    color: #0077BB !important
+    color: #444C3B !important
     }
 h4 {
     margin: 20px 0 40px 0
@@ -15,7 +15,7 @@ h4 {
     font-size:14px;  
     margin:15px 0px;
     padding:5px 89px;
-    background-color:#98BB60;
+    background-color:#C4DCAB;
     border:1px solid #0088BB;
     text-align:center;
 }  
@@ -32,7 +32,7 @@ h4 a:hover:after {
     margin:0px !important;
     padding:5px 64px !important;
     content: "DO NOT POST MEMES" ;
-    background-color: #98BB60;
+    background-color: #C4DCAB;
     border:1px solid gray;  
 }*/
 h5 {
@@ -56,7 +56,7 @@ h6 a:hover {
     }
 #header {
     background-color: #333;
-    border-bottom: 5px solid #0088CC;
+    border-bottom: 5px solid #444C3C;
     height: 76px;
     margin-bottom: 13px
     }
@@ -92,7 +92,7 @@ h6 a:hover {
 */
 #sr-header-area {
     background: #F6F9FC !important;
-    border-bottom: 2px solid #0088CC;
+    border-bottom: 2px solid #444C3C;
     height: 11px;
     line-height: 10px
     }
@@ -103,7 +103,7 @@ h6 a:hover {
     color: #000
     }
 #sr-header-area .separator {
-    color: #0088CC
+    color: #444C3C
     }
 #sr-more-link {
     background-color: #F6F9FC;
@@ -119,7 +119,7 @@ h6 a:hover {
 */
 .drop-choices {
     background-color: #333 !important;
-    border: 2px solid #0088CC;
+    border: 2px solid #444C3C;
     border-radius: 7px !important;
     padding: 2px 10px
     }
@@ -234,7 +234,7 @@ ul.tabmenu li:nth-child(3) {
     }
 form#search {
     border: 1px solid #0088BB;
-    background: #98BB60;
+    background: #C4DCAB;
     font-size: 0.812em;
     min-height: 40px
     }
@@ -311,15 +311,15 @@ form#search {
     border-radius: 0px
     }
 .side a {
-    color: #0077BB;
+    color: #444C3B;
     /* Change links in sidebar from default to arch blue */
     }
 a.title {
     /*Change the color of post titles to arch blue */
-    color: #0077BB !important
+    color: #444C3B !important
     }
 a.author {
-    color: #0077BB
+    color: #444C3B
     }
 .side .usertext-body .md {
     padding-bottom: 10px;
@@ -331,20 +331,20 @@ a.author {
     border-radius: 0
     }
 .fancy-toggle-button .add {
-    background: #98BB60 !important;
+    background: #C4DCAB !important;
     border: 1px solid #0088BB;
     border-radius: 0
     }
 .RESDashboardToggle {
     background-image: none !important;
-    background: #98BB60 !important;
+    background: #C4DCAB !important;
     border: 1px solid #0088BB;
     border-radius: 0 !important;
     margin-left: 10px
     }
 .RESshortcut.RESshortcutside {
     background-image: none !important;
-    background: #98BB60 !important;
+    background: #C4DCAB !important;
     background: 1px solid #0088BB;
     border-radius: 0;
     margin-left: 10px
@@ -366,12 +366,12 @@ a.author {
     }
 .side .morelink a {
     background: none !important;
-    background-color: #98BB60 !important;
+    background-color: #C4DCAB !important;
     color: white
     }
 .side .morelink a:hover {
     background: none !important;
-    background-color: #98BB60 !important;
+    background-color: #C4DCAB !important;
     color: black
     }
 .sidebox.submit .morelink a:hover {
@@ -432,7 +432,7 @@ p.title {
     }
 .footer a {
     /* Footer */
-    color: #0077BB
+    color: #444C3B
     }
 /* Submit page */
 textarea {
@@ -451,7 +451,7 @@ input {
     }
 #link-desc {
     /* Link description boxes */
-    background: #98BB60;
+    background: #C4DCAB;
     border: 1px solid #0088BB
     }
 #link-desc:after {
@@ -459,7 +459,7 @@ input {
     content: " The key to an unsuccessful submission is posting memes."
     }
 #text-desc {
-    background: #98BB60;
+    background: #C4DCAB;
     border: 1px solid #0088BB
     }
 ul.tabmenu.formtab {
@@ -469,11 +469,11 @@ ul.tabmenu.formtab {
     top: 1px
     }
 ul.tabmenu.formtab li a {
-    border: 1px solid #98BB60;
+    border: 1px solid #C4DCAB;
     background: #ECF2F5 !important
     }
 ul.tabmenu.formtab li.selected a {
-    border: 1px solid #98BB60;
+    border: 1px solid #C4DCAB;
     background: #ECF2F5 !important
     }
 .icon-menu a {
@@ -489,17 +489,17 @@ ul.tabmenu.formtab li.selected a {
     color: #333
     }
 .content .tabmenu li.selected a {
-    color: #0088CC !important
+    color: #444C3C !important
     }
 .content .tabmenu a:hover {
-    color: #0088CC !important
+    color: #444C3C !important
     }
 .menuarea li a {
     /* change the new|rising links in the new tab  on front page*/
     color: #333
     }
 .menuarea li.selected a {
-    color: #0088CC
+    color: #444C3C
     }
 /*  
 ************************  
