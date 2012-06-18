@@ -536,6 +536,6 @@ a.subbarlink.RESShortcutsCurrentSub {
 }
 
 a {
-    color: #339966 !important;
+    color: #339966;
     text-decoration: none;
 }

@@ -2,6 +2,10 @@ body {
     background: none repeat scroll 0 0 #E4FFC9;
     font-family: sans-serif !important;
 }
+a {
+    color: #339966;
+    text-decoration: none;
+}
 h2 {
     color: #444C3B !important;
 }
@@ -535,7 +539,3 @@ a.subbarlink.RESShortcutsCurrentSub {
 	color: white !important;
 }
 
-a {
-    color: #339966 !important;
-    text-decoration: none;
-}
