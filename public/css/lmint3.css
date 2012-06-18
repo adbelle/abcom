@@ -521,9 +521,6 @@ a.subbarlink.RESShortcutsCurrentSub {
 .midcol {
 	margin-top: -4px;
 }
-.usertext-body {
-    display: none;
-}
 
 .morelink {
     border: 1px solid #226633;
@@ -552,4 +549,14 @@ a.subbarlink.RESShortcutsCurrentSub {
     border-top: 4px solid #5FCF99;
     padding-top: 10px;
     width: 520px;
+}
+
+.linefield {
+    background: none;
+}
+
+.linefield .title {
+    color: green;
+    font-weight: bold;
+    padding: 1px 10px;
 }
