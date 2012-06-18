@@ -15,7 +15,7 @@ h4 {
     font-size:14px;  
     margin:15px 0px;
     padding:5px 89px;
-    background-color:#33AADD;
+    background-color:#98BB60;
     border:1px solid #0088BB;
     text-align:center;
 }  
@@ -32,7 +32,7 @@ h4 a:hover:after {
     margin:0px !important;
     padding:5px 64px !important;
     content: "DO NOT POST MEMES" ;
-    background-color: #33AADD;
+    background-color: #98BB60;
     border:1px solid gray;  
 }*/
 h5 {
@@ -234,7 +234,7 @@ ul.tabmenu li:nth-child(3) {
     }
 form#search {
     border: 1px solid #0088BB;
-    background: #33AADD;
+    background: #98BB60;
     font-size: 0.812em;
     min-height: 40px
     }
@@ -331,20 +331,20 @@ a.author {
     border-radius: 0
     }
 .fancy-toggle-button .add {
-    background: #33AADD !important;
+    background: #98BB60 !important;
     border: 1px solid #0088BB;
     border-radius: 0
     }
 .RESDashboardToggle {
     background-image: none !important;
-    background: #33AADD !important;
+    background: #98BB60 !important;
     border: 1px solid #0088BB;
     border-radius: 0 !important;
     margin-left: 10px
     }
 .RESshortcut.RESshortcutside {
     background-image: none !important;
-    background: #33AADD !important;
+    background: #98BB60 !important;
     background: 1px solid #0088BB;
     border-radius: 0;
     margin-left: 10px
@@ -366,12 +366,12 @@ a.author {
     }
 .side .morelink a {
     background: none !important;
-    background-color: #33AADD !important;
+    background-color: #98BB60 !important;
     color: white
     }
 .side .morelink a:hover {
     background: none !important;
-    background-color: #33AADD !important;
+    background-color: #98BB60 !important;
     color: black
     }
 .sidebox.submit .morelink a:hover {
@@ -451,7 +451,7 @@ input {
     }
 #link-desc {
     /* Link description boxes */
-    background: #33AADD;
+    background: #98BB60;
     border: 1px solid #0088BB
     }
 #link-desc:after {
@@ -459,7 +459,7 @@ input {
     content: " The key to an unsuccessful submission is posting memes."
     }
 #text-desc {
-    background: #33AADD;
+    background: #98BB60;
     border: 1px solid #0088BB
     }
 ul.tabmenu.formtab {
@@ -469,11 +469,11 @@ ul.tabmenu.formtab {
     top: 1px
     }
 ul.tabmenu.formtab li a {
-    border: 1px solid #33AADD;
+    border: 1px solid #98BB60;
     background: #ECF2F5 !important
     }
 ul.tabmenu.formtab li.selected a {
-    border: 1px solid #33AADD;
+    border: 1px solid #98BB60;
     background: #ECF2F5 !important
     }
 .icon-menu a {
