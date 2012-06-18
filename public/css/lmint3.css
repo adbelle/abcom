@@ -1,0 +1,549 @@
+body {
+    background: none repeat scroll 0 0 #E4FFC9;
+    font-family: sans-serif !important;
+}
+a {
+    color: #339966;
+    text-decoration: none;
+}
+h2 {
+    color: #444C3B !important;
+}
+h4 {
+    margin: 20px 0 40px;
+}
+h5 {
+    font-family: sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5;
+    margin-top: 1em;
+}
+h6 {
+    font-family: sans-serif;
+    font-size: 1.2em;
+    font-weight: normal;
+    line-height: 0.5;
+    margin-top: 0.8em;
+    padding-left: 15px;
+}
+h6 a:hover {
+    color: gray;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+#header {
+    background-image: url(%%header2%%);
+    border-bottom: 5px solid #444C3C;
+    height: 105px;
+    margin-bottom: 13px;
+}
+.redditname a {
+    background: url(%%header%%) no-repeat scroll 0 0 transparent;
+    height: 91px;
+    width: 285px;
+}
+#header-bottom-left {
+    height: 24px;
+}
+.redditname a {
+    margin-top: 0;
+    text-indent: -9001px;
+}
+#header-img-a, .redditname a, .tabmenu {
+    display: inline;
+    float: left;
+    padding-left: 10px;
+}
+#header-img {
+    display: none !important;
+    margin-right: 0;
+}
+.thumbnail {
+    display: none;
+}
+#sr-header-area {
+    background: none repeat scroll 0 0 #F6F9FC !important;
+    border-bottom: 2px solid #444C3C;
+    height: 11px;
+    line-height: 10px;
+}
+.RES-nightmode #sr-header-area {
+    background: none repeat scroll 0 0 #F6F9FC !important;
+}
+.sr-bar a {
+    color: #000000;
+}
+#sr-header-area .separator {
+    color: #444C3C;
+}
+#sr-more-link {
+    background-color: #F6F9FC;
+    color: #000000;
+}
+#sr-header-area .srdrop .selected {
+    color: #000000;
+}
+.drop-choices {
+    background-color: #333333 !important;
+    border: 2px solid #444C3C;
+    padding: 2px 10px;
+}
+.drop-choices a {
+    color: #999999 !important;
+}
+#sr-header-area div.srdrop a.choice.bottom-option {
+    color: white !important;
+}
+#sr-header-area div.drop-choices a.choice:hover {
+    background-color: #333333 !important;
+    color: white !important;
+}
+.tabmenu li a {
+    background-color: transparent !important;
+    border: medium none;
+    color: #999999;
+    font-size: 14px;
+    margin: 0 14px;
+}
+.tabmenu li.selected a {
+    background-color: transparent;
+    border: medium none;
+    color: white;
+}
+.tabmenu li a:hover {
+    background-color: transparent;
+    border: medium none;
+    color: white;
+}
+.tabmenu {
+    float: right;
+    margin-top: -20px !important;
+    padding: 0;
+    position: absolute;
+    right: 22px;
+    top: 58px;
+}
+#header-bottom-right {
+    background: none repeat scroll 0 0 transparent;
+    color: white;
+    position: absolute;
+    right: 41px;
+    top: 72px;
+}
+#header-bottom-right a {
+    color: #EEFFEE;
+    font-weight: normal;
+}
+#header-bottom-right a:hover {
+    color: #333333;
+    text-decoration: none;
+}
+.res #header-bottom-right {
+    position: absolute;
+    right: 5px;
+    top: 81px;
+}
+.res #userbarToggle {
+    background-color: #ECF2F5;
+    border-color: #BBCCDD;
+    color: #BBCCDD;
+    margin-top: 4px;
+}
+.res .content {
+    margin-top: 20px;
+}
+ul.tabmenu li:nth-child(3) {
+    display: none;
+}
+.titlebox blockquote li {
+    background-color: transparent !important;
+    font-size: 0;
+    margin: 23px 5px 5px 15px;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    z-index: 9999;
+}
+.titlebox blockquote li a {
+    color: #999999;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 20px;
+    text-transform: lowercase;
+}
+.titlebox blockquote li a:hover {
+    color: white;
+}
+.side {
+    background: none repeat scroll 0 0 transparent;
+    padding: 15px 25px 0;
+}
+form#search {
+    background: none repeat scroll 0 0 #C4DCAB;
+    border: 1px solid #556633;
+    font-size: 0.812em;
+    min-height: 40px;
+}
+#search:before {
+    color: white;
+    content: "Reddit Search:";
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 40px;
+    padding-left: 10px;
+}
+#search input[type="text"] {
+    background-color: white;
+    border: 1px solid #556633;
+    color: black;
+    float: right;
+    font-size: 13px !important;
+    font-weight: bold;
+    height: 13px !important;
+    margin: 10px 15px 0 0;
+    width: 145px !important;
+}
+#searchexpando.infobar {
+    background: none repeat scroll 0 0 #ECF2F5;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+}
+.titlebox .redditname a {
+    background-image: url("%%stylebits%%");
+    background-position: 0 -101px;
+    height: 24px;
+    margin: 0 10px 10px 80px !important;
+    width: 116px;
+}
+.titlebox {
+    text-align: center;
+}
+.titlebox .usertext-body {
+    text-align: left;
+}
+.titlebox .bottom {
+    background-color: #ECF5DD !important;
+    border: 0 solid gray;
+    margin: 6px !important;
+    padding: 15px 3px 20px !important;
+}
+.sheets {
+    max-width: 985px;
+}
+.spacer .titlebox {
+    background: none repeat scroll 0 0 #ECF5DD;
+    border: 1px solid #BBCCDD;
+    padding: 5px;
+}
+.titlebox form.toggle, .leavecontributor-button, .leavemoderator {
+    background: none repeat scroll 0 0 #ECF5DD;
+    color: black;
+}
+.sidecontentbox .content {
+    border: medium none;
+}
+.sidebox .spacer {
+    background: none repeat scroll 0 0 transparent;
+}
+.sidebox .nub {
+    display: none;
+}
+.morelink {
+}
+.side a {
+    color: #444C3B;
+}
+a.title {
+    color: #444C3B !important;
+}
+a.author {
+    color: #444C3B;
+}
+.side .usertext-body .md {
+    background-color: #F6F9FC !important;
+    margin-top: 1px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+.fancy-toggle-button .remove {
+}
+.fancy-toggle-button .add {
+    background: none repeat scroll 0 0 #C4DCAB !important;
+    border: 1px solid #556633;
+}
+ 
+.RESDashboardToggle {
+    background: none repeat scroll 0 0 #C4DCAB !important;
+    border: 0 solid #0088BB;
+    margin-left: 10px;
+}
+.RESshortcut.RESshortcutside {
+    background: none repeat scroll 0 0 #C4DCAB !important;
+    margin-left: 10px;
+}
+#RESShortcuts {
+    overflow: hidden;
+}
+.titlebox .md {
+    background-color: transparent !important;
+    border-top: 1px solid #BBCCDD !important;
+    margin: 0 -6px !important;
+    padding-top: 10px;
+}
+.sidebox.submit, .sidebox.create {
+    background-color: #ECF5DD;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+}
+.side .morelink a {
+    background: none repeat scroll 0 0 #C4DCAB !important;
+    color: white;
+}
+.side .morelink a:hover {
+    background: none repeat scroll 0 0 #C4DCAB !important;
+    color: black;
+}
+.sidebox.submit .morelink a:hover {
+    border: 1px solid #333333;
+    font-size: 0;
+}
+.sidebox.submit .morelink a:hover:after {
+    color: red;
+    content: "DO NOT POST MEMES";
+    font-size: 15px;
+}
+.link .usertext .md {
+    background: none repeat scroll 0 0 #ECF5DD;
+    border: 1px solid #BBCCDD;
+    padding: 5px;
+}
+.linkinfo {
+    background: none repeat scroll 0 0 #ECF5DD;
+    border: 1px solid #BBCCDD;
+    padding: 5px;
+}
+.panestack-title {
+    margin-right: 365px;
+}
+.keyHighlight {
+    background-color: transparent !important;
+    outline: medium none !important;
+}
+.res .keyHighlight {
+    background-color: transparent !important;
+    outline: medium none !important;
+}
+.md p {
+    margin: 2px 0;
+}
+.link.last-clicked {
+    border: medium none;
+}
+#siteTable.sitetable.linklisting {
+    padding-top: 15px;
+}
+p.title {
+    margin: 0 340px 15px 3px;
+}
+.listing-page .entry {
+    border-bottom: 1px dotted #BBCCDD;
+}
+.footer a {
+    color: #444C3B;
+}
+textarea {
+    background: none repeat scroll 0 0 #ECF5DD;
+    border: 1px solid #BBCCDD;
+}
+input {
+    background: none repeat scroll 0 0 transparent;
+}
+.roundfield {
+    background: none repeat scroll 0 0 #ECF2F5;
+    border: 1px solid #BBCCDD;
+}
+#link-desc {
+    background: none repeat scroll 0 0 #C4DCAB;
+    border: 1px solid #0088BB;
+}
+#link-desc:after {
+    content: " The key to an unsuccessful submission is posting memes.";
+}
+#text-desc {
+    background: none repeat scroll 0 0 #C4DCAB;
+    border: 1px solid #0088BB;
+}
+ul.tabmenu.formtab {
+    position: relative;
+    right: 550px;
+    top: 1px;
+}
+ul.tabmenu.formtab li a {
+    background: none repeat scroll 0 0 #ECF2F5 !important;
+    border: 1px solid #C4DCAB;
+}
+ul.tabmenu.formtab li.selected a {
+    background: none repeat scroll 0 0 #ECF2F5 !important;
+    border: 1px solid #C4DCAB;
+}
+.icon-menu a {
+    background: none repeat scroll 0 0 #F6F9FC;
+}
+.content .tabmenu {
+    position: relative;
+    right: 550px;
+    top: 0;
+}
+.content .tabmenu li#tab-templates li#tab-link_templates li#tab-grant a {
+    color: #333333;
+}
+.content .tabmenu li.selected a {
+    color: #444C3C !important;
+}
+.content .tabmenu a:hover {
+    color: #444C3C !important;
+}
+.menuarea li a {
+    color: #333333;
+}
+.menuarea li.selected a {
+    color: #444C3C;
+}
+.arrow.up {
+    background-image: url("%%stylebits%%");
+    background-position: 0 -280px;
+    height: 16px;
+    margin-bottom: 4px;
+    width: 16px;
+}
+.arrow.upmod {
+    background-image: url("%%stylebits%%");
+    background-position: 0 -306px;
+    height: 16px;
+    margin-bottom: 4px;
+    width: 16px;
+}
+.arrow.down {
+    background-image: url("%%stylebits%%");
+    background-position: 0 -202px;
+    height: 16px;
+    margin-top: 4px;
+    width: 16px;
+}
+.arrow.downmod {
+    background-image: url("%%stylebits%%");
+    background-position: 0 -254px;
+    height: 16px;
+    margin-top: 4px;
+    width: 16px;
+}
+.link .score.likes {
+    color: #999999;
+}
+div.titlebox span.word {
+    display: none;
+}
+div.titlebox span.number:after {
+    content: " readers";
+}
+.res-nightmode #userbarToggle {
+    margin-top: 2px;
+}
+.res-nightmode #header-bottom-right {
+    background-color: transparent !important;
+}
+.res-nightmode .titlebox blockquote li a {
+    color: #999999 !important;
+    text-transform: lowercase;
+}
+.res-nightmode .titlebox blockquote li a:hover {
+    color: white !important;
+}
+.res-nightmode .titlebox {
+    background-color: transparent;
+    border: 1px solid #0088BB;
+}
+.res-nightmode .titlebox form.toggle, .leavemoderator {
+    background-color: transparent;
+}
+.res-nightmode .sidecontentbox, .content {
+    background-color: transparent !important;
+}
+a.subbarlink.RESShortcutsCurrentSub {
+    color: #0088BB !important;
+    font-weight: normal;
+}
+.res-nightmode .arrow.upmod {
+    background-image: url("%%stylebits%%") !important;
+    background-position: 0 -280px;
+    height: 16px;
+    width: 16px;
+    z-index: 9999;
+}
+.res-nightmode .arrow.downmod {
+    background: url("%%stylebits%%") repeat scroll 0 0 transparent !important;
+    height: 16px;
+    width: 16px;
+    z-index: 9999;
+}
+.res-nightmode .link .score.likes {
+    color: #999999 !important;
+}
+.res #RESShortcutsRight, #RESShortcutsLeft, #RESShortcutsAdd {
+    background-color: transparent !important;
+    color: #0088BB !important;
+    font-size: 10px !important;
+    font-weight: bold;
+    height: 11px !important;
+    line-height: 1em !important;
+}
+.res #RESShortcutsEditContainer {
+    background: none repeat scroll 0 0 transparent !important;
+    height: 8px !important;
+}
+.res-nightmode .side .usertext-body .md {
+    background-color: #222222 !important;
+}
+.res-nightmode .titlebox .md {
+    background-color: #222222 !important;
+}
+.res-nightmode .titlebox .bottom {
+    background-color: #222222 !important;
+}
+.flairselector h2 {
+    background: none repeat scroll 0 0 transparent;
+}
+
+.user {
+	color: white !important;
+}
+
+.midcol {
+	margin-top: -4px;
+}
+.usertext-body {
+    display: none;
+}
+
+.morelink {
+    border: 1px solid #226633;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    display: block;
+    font-size: 150%;
+    font-weight: bold;
+    height: 29px;
+    letter-spacing: -1px;
+    line-height: 29px;
+    position: relative;
+    text-align: center;
+}
+
+.pagename {
+    font-size: 1.2em;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-right: 1ex;
+    margin-top: 20px;
+    vertical-align: bottom;
+}
