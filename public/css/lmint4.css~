@@ -67,10 +67,11 @@ h6 a:hover {
     height: 11px;
     line-height: 10px;
 }
-.res-nightmode #sr-header-area {
-    background: none repeat scroll 0 0 #F6F9FC !important;
+.RES-nightmode #sr-header-area {
+    /*background: none repeat scroll 0 0 #F6F9FC !important;*/
 }
 
+}
 .sr-bar a {
     color: #000000;
 }
@@ -142,7 +143,7 @@ h6 a:hover {
 .res #header-bottom-right {
     position: absolute;
     right: 5px;
-    top: 59px;
+    top: 81px;
 }
 .res #userbarToggle {
     background-color: #ECF2F5;
@@ -447,6 +448,7 @@ div.titlebox span.word {
 div.titlebox span.number:after {
     content: " readers";
 }
+/*
 .res-nightmode #userbarToggle {
     margin-top: 2px;
 }
@@ -470,19 +472,21 @@ div.titlebox span.number:after {
 .res-nightmode .sidecontentbox, .content {
     background-color: transparent !important;
 }
+*/
 a.subbarlink.RESShortcutsCurrentSub {
     color: #0088BB !important;
     font-weight: normal;
 }
+/*
 .res-nightmode .arrow.upmod {
-/*    background-image: url("%%stylebits%%") !important;*/
+    background-image: url("%%stylebits%%") !important;
     background-position: 0 -280px;
     height: 16px;
     width: 16px;
     z-index: 9999;
 }
 .res-nightmode .arrow.downmod {
-/*    background: url("%%stylebits%%") repeat scroll 0 0 transparent !important;*/
+    background: url("%%stylebits%%") repeat scroll 0 0 transparent !important;
     height: 16px;
     width: 16px;
     z-index: 9999;
@@ -490,6 +494,7 @@ a.subbarlink.RESShortcutsCurrentSub {
 .res-nightmode .link .score.likes {
     color: #999999 !important;
 }
+*/
 .res #RESShortcutsRight, #RESShortcutsLeft, #RESShortcutsAdd {
     background-color: transparent !important;
     color: #0088BB !important;
@@ -502,6 +507,7 @@ a.subbarlink.RESShortcutsCurrentSub {
     background: none repeat scroll 0 0 transparent !important;
     height: 8px !important;
 }
+/*
 .res-nightmode .side .usertext-body .md {
     background-color: #222222 !important;
 }
@@ -511,6 +517,7 @@ a.subbarlink.RESShortcutsCurrentSub {
 .res-nightmode .titlebox .bottom {
     background-color: #222222 !important;
 }
+*/
 .flairselector h2 {
     background: none repeat scroll 0 0 transparent;
 }
@@ -560,82 +567,4 @@ a.subbarlink.RESShortcutsCurrentSub {
     color: green;
     font-weight: bold;
     padding: 1px 10px;
-}
-
-.author.submitter {
-    background-color: #669966 !important;
-	color: white !important;
-}
-
-.res-nightmode .spacer .titlebox {
-	background: none repeat scroll 0 0 #222222 !important;
-    border: 1px solid #BBCCDD;
-    padding: 5px;
-}
-
-.res-nightmode .titlebox form.toggle, .leavecontributor-button, .leavemoderator {
-	background: none repeat scroll 0 0 #222222 !important;
-    color: white !important;
-}
-
-.res-nightmode .titlebox .bottom {
-    background-color: #222222 !important;
-}
-
-#sr-header-area, #sr-more-link {
-    background: none repeat scroll 0 0 #C2F2C2 !important;
-}
-
-.res-nightmode .keyHighlight {
-	background-color: #222222 !important;
-}
-
-.res-nightmode #header-bottom-right {
-    background: none !important;
-    height: auto;
-    padding: 4px 4px 7px;
-}
-
-.res-nightmode .add a, .res-nightmode .remove a, .res-nightmode .morelink a {
-	color: white !important;
-}
-
-.entry .domain a {
-    color: #88DDAA !important;
-}
-
-.imgScanned a {
-	color: magenta !important;
-}
-
-.res-nightmode .titlebox .fancy-toggle-button {
-	color: white !important;
-}
-
-.res-nightmode .morelink {
-	background-color: #336655 !important;
-}
-
-.res-nightmode #header-bottom-right {
-    top: 61px;
-}
-
-.res-nightmode .share .option, .res-nightmode h2, .res-nightmode .tagline a, .res-nightmode .content a, .res-nightmode .footer a, .res-nightmode .wired a, .res-nightmode .side .author a, .res-nightmode .side .leavemoderator a, .res-nightmode .subredditbox li a {
-    color: #88DDAA !important;
-}
-
-.res-nightmode #rem-login-main {
-    margin-right: -55px !important;
-}
-
-.res-nightmode form#search {
-    background: none repeat scroll 0 0 #222222 !important;
-    border: 1px solid #DDDDDD;
-    font-size: 0.812em;
-    min-height: 40px;
-}
-
-.res-nightmode .side .morelink a {
-    background: none repeat scroll 0 0 #669966 !important;
-    color: white;
 }
