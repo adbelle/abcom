@@ -30,6 +30,7 @@
     border-top: thin dotted }
   .picframe {
 	border: 5px solid gray;
+    border-radius: 15px 15px 15px 15px;
 	overflow: hidden;
   }
 
