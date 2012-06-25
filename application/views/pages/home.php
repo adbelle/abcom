@@ -4,7 +4,7 @@
 
 </br></br><hr /></br>
 
-<div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/cl_thumb.jpg" height="200"></img></a> </div><div align="center">Music</div></div>
+<div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/music180.jpg" height="200"></img></a> </div><div align="center">Music</div></div>
 <div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/cl_thumb.jpg" height="200"></img></a> </div><div align="center">Blog</div></div>
 <div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/anc.jpg" height="200"></img></a> </div><div align="center">Design</div></div>
 
