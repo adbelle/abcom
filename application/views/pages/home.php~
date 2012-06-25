@@ -1,6 +1,6 @@
-<div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/hedge.jpg" height="200"></img></a> </div><div align="center">About Me</div></div>
-<div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/cl_thumb.jpg" height="200"></img></a> </div><div align="center">Resume and CV</div></div>
-<div class="grid-4 picframe"> <div align="center"><a href="http://thecolorless.net/"><img src="http://anthonybellew.com/public/images/linuxmint.jpg" height="200"></img></a> </div><div align="center">Code</div></div>
+<div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/"><img src="http://anthonybellew.com/public/images/hedge.jpg" height="200"></img></a> </div><div align="center">About Me</div></div>
+<div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/"><img src="http://anthonybellew.com/public/images/cl_thumb.jpg" height="200"></img></a> </div><div align="center">Resume and CV</div></div>
+<div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/"><img src="http://anthonybellew.com/public/images/code120.jpg" height="200"></img></a> </div><div align="center">Code</div></div>
 
 </br></br><hr /></br>
 
