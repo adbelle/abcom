@@ -1,5 +1,3 @@
-<?= $this->load->view('news/background', $data); ?>
-
 <div class="grid-two-thirds">
 Hello World!<br /><br />
 
