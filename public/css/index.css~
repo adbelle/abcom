@@ -31,7 +31,10 @@
   .picframe {
 	border: 5px solid gray;
     border-radius: 15px 15px 15px 15px;
-	overflow: hidden; }
+	overflow: hidden; 
+	color: white;
+	background: black; 
+	font-style: bold; }
   hr {
 	color: white; }
 
