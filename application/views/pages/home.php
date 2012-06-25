@@ -6,6 +6,6 @@
 
 <div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/music"><img src="http://anthonybellew.com/public/images/music180.jpg" height="200"></img></a> </div><div align="center">Music</div></div>
 <div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/"><img src="http://anthonybellew.com/public/images/blog240.jpg" height="200"></img></a> </div><div align="center">Blog</div></div>
-<div class="grid-4 picframe"> <div align="center"><a href="http://anthonybellew.com/news/design"><img src="http://anthonybellew.com/public/images/design300.jpg" height="200"></img></a> </div><div align="center">Design</div></div>
+<div class="grid-4 picframe"> <div align="center"><a href="http://artistsnclients.com/slots/11"><img src="http://anthonybellew.com/public/images/design300.jpg" height="200"></img></a> </div><div align="center">Design</div></div>
 
 
