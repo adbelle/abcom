@@ -1,3 +1,5 @@
+<?= $this->load->view('news/background', $data); ?>
+
 <div class="grid-two-thirds">
 Hello World!<br /><br />
 
@@ -14,7 +16,6 @@ My business partners at Zeon Federated are
 <a href="http://acostoss.com/">Jesse Hamilton</a>.
 <br /><br />
 
-My other websites are <a href="http://thecolorless.net/">here.</a>
-and <a href="http://artistsnclients.com/">here.</a><br /><br />
+Get in touch with me at <a href="mailto:anthonyreflected@gmail.com">anthonyreflected@gmail.com</a>.
 </div><!--grid-one-thirds-->
 
