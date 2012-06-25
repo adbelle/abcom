@@ -34,7 +34,7 @@
 	overflow: hidden; 
 	color: white;
 	background: black; 
-	font-style: bold; }
+	font-weight: bold; }
   hr {
 	color: white; }
 
